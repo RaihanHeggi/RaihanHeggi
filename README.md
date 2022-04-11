@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sya Raihan Heggi you can call me Heggi</h1>
-<h3 align="center">I'm interested in Website Development, Machine Learning, and little of Computer Networks</h3>
+<h3 align="center">I'm interested in Website Development, Machine Learning, and a little bit Computer Networks</h3>
 
 - 🌱 I’m currently learning **Machine Learning, React, and P4 Language**
 
