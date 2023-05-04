@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Laravel, Codeigniter, and Machine Learning**
 
-- 📫 How to reach me **heggi.sya@gmail.com** or **heggiraihan@student.telkomuniversity.ac.id**
+- 📫 How to reach me **heggi.sya@gmail.com** 
 
 - ⚡ Fun fact **I Like Watermelon**
 
