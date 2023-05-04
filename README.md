@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Sya Raihan Heggi</h1>
 <h3 align="center">First you can call me Heggi, I'm interested in Website Development, Machine Learning, and a little bit Computer Networks</h3>
 
-- 🌱 I’m currently learning **Machine Learning, React, Another JS Based Framework, Website Deployment, and P4 Language**
+- 🌱 I’m currently learning **React JS, Android Software Development (Kotlin), and Node JS**
 
 - 💬 Ask me about **Python, Laravel, Codeigniter, and Machine Learning**
 
